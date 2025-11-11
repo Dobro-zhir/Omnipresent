@@ -1,0 +1,14 @@
+{
+    "audio": 1,
+    "video": 1,
+    "only_fragment": 1,
+    "download_path": "",
+    "together": 1,
+    "selected_video_quality": "\u0414\u043e 1080p \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e",
+    "image": 1,
+    "links": 1,
+    "filename_format_selection": [
+        "ID \u0432\u0438\u0434\u0435\u043e"
+    ],
+    "selected_cookie_browser": "not use"
+}
