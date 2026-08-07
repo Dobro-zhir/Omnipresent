@@ -4,7 +4,7 @@
 <img width="1434" height="471" alt="Omnipresent 2" src="https://github.com/user-attachments/assets/8230a8d0-025c-4a28-a761-6542a41f3b5e" />
 Поддерживается множество функций, которые реализованы при помощи утилит [yt-dlp](https://github.com/yt-dlp/yt-dlp) и [ffmpeg](https://ffmpeg.org/download.html).
 ## Как скачать?
-Инструкция лежит в моём ТГ канале: https://t.me/dobrozhir_official/40
+Инструкция лежит в моём ТГ канале: https://t.me/dobrozhir_main/40
 
-Более подробный обзор на программу можно посмотреть в этом ролике (сделан до обновления): https://t.me/dobrozhir_official/79
+Более подробный обзор на программу можно посмотреть в этом ролике (сделан до обновления): https://t.me/dobrozhir_main/79
 
